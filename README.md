@@ -1,2 +1,3 @@
 # python-variable
-variable basics
+python variable basics through example
+
